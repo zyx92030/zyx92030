@@ -4,5 +4,6 @@ int main(void){
 	scanf("%d", &a);
 	if(a==1)
 		printf("정영수")
-
+	if(a==2)
+		printf("introduce")
 }
